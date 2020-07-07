@@ -6,7 +6,7 @@ import { withStyles, makeStyles } from "@material-ui/core/styles";
 // @material-ui/icons
 import Typography from "@material-ui/core/Typography";
 import Grid from "@material-ui/core/Grid";
-import { ThemeProvider } from "@material-ui/core/styles";
+
 // core components
 import Header from "components/Header/Header.js";
 import Footer from "components/Footer/Footer.js";
@@ -18,7 +18,6 @@ import NavPills from "components/NavPills/NavPills.js";
 import Parallax from "components/Parallax/Parallax.js";
 import Tooltip from "@material-ui/core/Tooltip";
 import profile from "assets/img/faces/pic1.png";
-import Popover from "@material-ui/core/Popover";
 import burger from "assets/img/projects/burger.jpg";
 import crystal from "assets/img/projects/crystal.jpg";
 import destination from "assets/img/projects/destination.jpg";
