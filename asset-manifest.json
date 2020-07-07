@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.7747be13.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.c4ca2daf.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.c4ca2daf.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.a65dbc00.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.a65dbc00.js.map",
+    "static/js/2.03a1c67f.chunk.js": "/ReactPortfolio/static/js/2.03a1c67f.chunk.js",
+    "static/js/2.03a1c67f.chunk.js.map": "/ReactPortfolio/static/js/2.03a1c67f.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "precache-manifest.62d17ddc72ae0217169069ac184ba108.js": "/ReactPortfolio/precache-manifest.62d17ddc72ae0217169069ac184ba108.js",
+    "service-worker.js": "/ReactPortfolio/service-worker.js",
+    "static/css/main.7747be13.chunk.css.map": "/ReactPortfolio/static/css/main.7747be13.chunk.css.map",
+    "static/js/2.03a1c67f.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.03a1c67f.chunk.js.LICENSE.txt",
+    "static/media/burger.jpg": "/ReactPortfolio/static/media/burger.b94ad307.jpg",
+    "static/media/clicker.jpg": "/ReactPortfolio/static/media/clicker.17d54a69.jpg",
+    "static/media/crystal.jpg": "/ReactPortfolio/static/media/crystal.0389b394.jpg",
+    "static/media/destination.jpg": "/ReactPortfolio/static/media/destination.b151c919.jpg",
+    "static/media/devhigher.jpg": "/ReactPortfolio/static/media/devhigher.1c57b3d1.jpg",
+    "static/media/friends.jpg": "/ReactPortfolio/static/media/friends.65c2d787.jpg",
+    "static/media/giphy.jpg": "/ReactPortfolio/static/media/giphy.631f62ca.jpg",
+    "static/media/linkedinBackground.png": "/ReactPortfolio/static/media/linkedinBackground.ef6e355b.png",
+    "static/media/lyric.png": "/ReactPortfolio/static/media/lyric.767dd8f4.png",
+    "static/media/pic1.png": "/ReactPortfolio/static/media/pic1.7a04df97.png",
+    "static/media/restaurant.jpg": "/ReactPortfolio/static/media/restaurant.a78a18c0.jpg",
+    "static/media/trivia.jpg": "/ReactPortfolio/static/media/trivia.318c157c.jpg",
+    "static/media/word.jpg": "/ReactPortfolio/static/media/word.3674d4cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a65dbc00.js",
+    "static/js/2.03a1c67f.chunk.js",
+    "static/css/main.7747be13.chunk.css",
+    "static/js/main.c4ca2daf.chunk.js"
+  ]
+}
