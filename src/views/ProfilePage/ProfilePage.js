@@ -32,19 +32,9 @@ import word from "assets/img/projects/word.jpg";
 import clicker from "assets/img/projects/clicker.jpg";
 
 import styles from "assets/jss/material-kit-react/views/profilePage.js";
-import { Code, Face, Assignment, Chat } from "@material-ui/icons";
+import { Code, Face, Chat } from "@material-ui/icons";
 
 const useStyles = makeStyles(styles);
-
-const HtmlTooltip = withStyles((theme) => ({
-  tooltip: {
-    backgroundColor: "#f5f5f9",
-    color: "rgba(0, 0, 0, 0.87)",
-    maxWidth: 220,
-    fontSize: theme.typography.pxToRem(12),
-    border: "1px solid #dadde9",
-  },
-}))(Tooltip);
 
 export default function ProfilePage(props) {
   const classes = useStyles();
@@ -59,7 +49,15 @@ export default function ProfilePage(props) {
     classes.imgGallery,
     classes.imgRaised
   );
-
+  const HtmlTooltip = withStyles((theme) => ({
+    tooltip: {
+      backgroundColor: "#f5f5f9",
+      color: "rgba(0, 0, 0, 0.87)",
+      maxWidth: 220,
+      fontSize: theme.typography.pxToRem(12),
+      border: "1px solid #dadde9",
+    },
+  }))(Tooltip);
   return (
     <div>
       <Header
