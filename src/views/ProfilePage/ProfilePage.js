@@ -16,11 +16,7 @@ import GridItem from "components/Grid/GridItem.js";
 import HeaderLinks from "components/Header/HeaderLinks.js";
 import NavPills from "components/NavPills/NavPills.js";
 import Parallax from "components/Parallax/Parallax.js";
-import { cardTitle } from "assets/jss/material-kit-react.js";
-import Card from "components/Card/Card.js";
-import imagesStyles from "assets/jss/material-kit-react/imagesStyles.js";
 import Tooltip from "@material-ui/core/Tooltip";
-
 import profile from "assets/img/faces/pic1.png";
 import Popover from "@material-ui/core/Popover";
 import burger from "assets/img/projects/burger.jpg";
